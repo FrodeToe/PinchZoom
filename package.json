@@ -1,0 +1,15 @@
+{
+  "name": "pinchzoom",
+  "version": "0.1.0",
+  "description": "Pinch Zoom",
+  "author": "Norconsult Informasjonssystemer AS",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "glyphicons": "^0.2.0",
+    "node-static": "^0.7.11"
+  }
+}
